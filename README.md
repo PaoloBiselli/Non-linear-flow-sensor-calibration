@@ -8,7 +8,11 @@ Over many iterations, it finds the parameter for a power equation that minimizes
 
 To run this code, you need the IgorPro software; you may use the evaluation version of the software, provided by the manufacturer.
 
+
+
 Instructions to use Flow_cal.pxp
+
+
 Flow_cal.pxp works as script file for IgorPro WaveMetrics 6.3.4.0.
 After downloading IgorPro, you can start Flow_cal experiment. The menu on the right shows the options.
 For proper use, you need the experiments saved in LabView lvm file (10 sec recording of flow, in which the full content of the syringe is emptied). 
